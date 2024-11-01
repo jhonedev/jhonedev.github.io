@@ -1,6 +1,8 @@
 # Repositório de Exercício - Curso de Git
 
-Este repositório foi criado para aplicar os conhecimentos obtidos no curso de Git. O objetivo é colocar em prática o uso de commits, branches e versionamento de código, através da criação de um projeto básico de site pessoal.
+Este repositório foi criado para aplicar os conhecimentos obtidos no curso de Git. O objetivo é colocar em prática o uso de commits, branches e versionamento de código, através da criação de um projeto básico de site pessoal. 
+
+**Em breve, este projeto será atualizado para um portfólio real, apresentando meus projetos e habilidades como desenvolvedor.**
 
 ## Sobre o Projeto
 
@@ -29,8 +31,8 @@ O propósito deste projeto é exercitar o uso de:
 - Commits e histórico de alterações
 - Manipulação de branches e merges
 
-Este repositório representa o progresso e a prática dos conceitos de Git abordados no curso, facilitando o aprendizado e aprimoramento das habilidades em controle de versão.
+Este repositório representa o progresso e a prática dos conceitos de Git abordados no curso, facilitando o aprendizado e aprimoramento das habilidades em controle de versão. 
 
 ---
 
-> **Nota:** Este projeto é apenas para demonstração e prática de versionamento. O conteúdo das páginas é fictício e desenvolvido para exemplificar o uso do Git.
+> **Nota:** Este projeto é apenas para demonstração e prática de versionamento. O conteúdo das páginas é fictício e será substituído por informações reais e projetos em breve.
